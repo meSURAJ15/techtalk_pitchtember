@@ -1,0 +1,103 @@
+.macbook-air-1-child,
+.macbook-air-1-item {
+  position: absolute;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.macbook-air-1-child {
+  top: 369px;
+  left: 455px;
+  box-shadow: 0 4px 119.8px rgba(0, 0, 0, 0.25);
+  width: 1477px;
+  height: 992px;
+  opacity: 0.5;
+  mix-blend-mode: lighten;
+}
+.macbook-air-1-item {
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 2387px;
+  height: 1731px;
+  opacity: 0.8;
+}
+.macbook-air-1-inner {
+  position: absolute;
+  top: 349px;
+  left: 92px;
+  border-radius: 58px;
+  background-color: #74401b;
+  width: 1225px;
+  height: 1297px;
+  opacity: 0.55;
+}
+.pathsaala {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.counselling-core {
+  position: absolute;
+  top: 566px;
+  left: 267px;
+  width: 955px;
+  height: 184px;
+}
+.welcome-to-our {
+  margin: 0;
+}
+.welcome-to-our-container {
+  position: absolute;
+  top: 730px;
+  left: calc(50% - 918px);
+  font-size: 42px;
+  display: inline-block;
+  width: 1514px;
+  height: 804px;
+}
+.iconlybulkhome,
+.user-icon {
+  position: absolute;
+  top: 374px;
+  left: 1191px;
+  width: 90px;
+  height: 90px;
+  overflow: hidden;
+}
+.iconlybulkhome {
+  height: 3.48%;
+  width: 2.39%;
+  top: 22.49%;
+  right: 91.41%;
+  bottom: 74.03%;
+  left: 6.2%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.arrow-down-circle {
+  position: absolute;
+  top: 925px;
+  left: 357px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.macbook-air-1 {
+  position: relative;
+  width: 100%;
+  height: 1731px;
+  overflow: hidden;
+  background-image: url(./public/macbook-air--1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+  text-align: left;
+  font-size: 104px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
